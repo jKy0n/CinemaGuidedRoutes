@@ -6,7 +6,7 @@ And Translated too x'D
 
 
 
-![alt text] (/home/jkyon/GitHubProjects/CinemaGuidedRoutes/Projeto 01 - 0.BMP "photo")
+![Schematics Design:] (https://github.com/jKy0n/CinemaGuidedRoutes/blob/main/Projeto%2001%20-%200.BMP?raw=true)
 
 
 
